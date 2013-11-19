@@ -1,4 +1,4 @@
-(function(){
+;(function(){
   /* ========================================================================
    * Bootstrap: affix.js v3.0.2
    * http://getbootstrap.com/javascript/#affix
@@ -126,4 +126,4 @@
   
   }(jQuery);
   
-})()
+})();
